@@ -1,0 +1,15 @@
+//
+//  SZNotificationDemo.pch
+//  SZNotificationDemo
+//
+//  Created by 陈圣治 on 15/11/4.
+//  Copyright © 2015年 shengzhichen. All rights reserved.
+//
+
+#ifndef SZNotificationDemo_pch
+#define SZNotificationDemo_pch
+
+#import <CocoaLumberjack/CocoaLumberjack.h>
+static const DDLogLevel ddLogLevel = DDLogLevelDebug;
+
+#endif /* SZNotificationDemo_pch */
